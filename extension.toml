@@ -4,8 +4,8 @@ version = "0.1.0"
 schema_version = 1
 authors = ["Ozan"]
 description = "Syntax highlighting for the Gent programming language"
-repository = "https://github.com/ozan/zed-gent"
+repository = "https://github.com/ozankasikci/zed-gent"
 
 [grammars.gent]
-repository = "file:///Users/ozan/Projects/tree-sitter-gent"
+repository = "https://github.com/ozankasikci/tree-sitter-gent"
 rev = "48e8f47a024a27d6d383a042818cfaf90ce86422"
