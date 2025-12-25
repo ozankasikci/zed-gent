@@ -7,4 +7,5 @@ description = "Syntax highlighting for the Gent programming language"
 repository = "https://github.com/ozan/zed-gent"
 
 [grammars.gent]
-path = "grammars/gent"
+repository = "file:///Users/ozan/Projects/tree-sitter-gent"
+rev = "48e8f47a024a27d6d383a042818cfaf90ce86422"
