@@ -1,0 +1,30 @@
+name = "Gent"
+grammar = "gent"
+path_suffixes = ["gnt"]
+line_comments = ["// "]
+tab_size = 2
+
+[[brackets]]
+start = "{"
+end = "}"
+close = true
+newline = true
+
+[[brackets]]
+start = "["
+end = "]"
+close = true
+newline = true
+
+[[brackets]]
+start = "("
+end = ")"
+close = true
+newline = false
+
+[[brackets]]
+start = "\""
+end = "\""
+close = true
+newline = false
+not_in = ["string", "comment"]
