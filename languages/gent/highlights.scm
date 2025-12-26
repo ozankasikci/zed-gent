@@ -15,6 +15,10 @@
 ; Comments
 (comment) @comment
 
+; Function and method calls
+(method_call) @function.method
+(function_call) @function
+
 ; Operators
 (operator) @operator
 
