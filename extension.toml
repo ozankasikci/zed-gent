@@ -8,4 +8,4 @@ repository = "https://github.com/ozankasikci/zed-gent"
 
 [grammars.gent]
 repository = "https://github.com/ozankasikci/tree-sitter-gent"
-rev = "9567ca78feb815cf96ec28ec1f0edcb6443bac93"
+rev = "487797e2153f4a2c13e114d93cdbb902b817614f"
